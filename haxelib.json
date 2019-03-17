@@ -1,0 +1,13 @@
+{
+  "name": "voytsjehx.unit",
+  "url": "https://github.com/Sl0vi/voytsjehx.unit.git",
+  "license": "MIT",
+  "tags": ["test", "unit"],
+  "description": "A fork of haxe.unit",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release",
+  "cotributers": [],
+  "dependencies": {
+  }
+}
