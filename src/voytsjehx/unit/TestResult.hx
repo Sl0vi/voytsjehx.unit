@@ -19,8 +19,8 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
  */
- package test.unit;
- import test.unit.TestStatus;
+ package voytsjehx.unit;
+ import voytsjehx.unit.TestStatus;
 
 /**
     TestResult contains the result of the executed unit tests.

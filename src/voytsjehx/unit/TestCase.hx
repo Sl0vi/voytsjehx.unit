@@ -19,9 +19,9 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
  */
-package test.unit;
-import test.unit.TestStatus;
-import test.unit.TestRunner;
+package voytsjehx.unit;
+import voytsjehx.unit.TestStatus;
+import voytsjehx.unit.TestRunner;
 import haxe.PosInfos;
 
 /**

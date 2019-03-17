@@ -19,7 +19,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
  */
-package test.unit;
+package voytsjehx.unit;
 import haxe.CallStack;
 
 import haxe.PosInfos;
